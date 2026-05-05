@@ -15,7 +15,7 @@
 - **Art. 2** – Władza zwierzchnia w Marynskiej Republice należy do Narodu.
 
 - **Art. 3**
-  1. Ustrój Marynskiej Republiki opiera się na podziale i równowadze władzy.
+  1. Ustrój Marynskiej Republiki opiera się na trójpodziale władzy.
   2. Władzę ustawodawczą sprawują Sejm i Senat.
   3. Władzę wykonawczą sprawują Prezydent oraz Rada Ministrów.
   4. Władzę sądowniczą sprawują niezależne sądy.
@@ -41,4 +41,6 @@
  - **Art. 12** - Każdy ma prawo do nauki.
 
  - **Art. 13** - Obywatel ma prawo do udziału w wyborach.
+
+ - **Art. 14** - Obywatel ma obwiązek płacenia podatków.
  
