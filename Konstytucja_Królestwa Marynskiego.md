@@ -1,4 +1,4 @@
-# **Konstytucja Marynskiej Republiki**
+# **Konstytucja Królestwa Marynskiego**
 
 ## **Spis Treści:**
 
