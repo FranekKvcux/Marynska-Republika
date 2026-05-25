@@ -1,18 +1,18 @@
 # Lore Marynskiej Republiki
 
 ## Waluta
-Walutą Marynskiej Republik jest "Korona Marynska", ponieważ kiedyś Marynska Republika była Marynskim Królestwem, lecz jak zmieniła się w republikę to nazwa waluty pozostała.
+Walutą Królestwa Marynskiego jest "Korona Marynska".
 
 ## Motto
 "Fide et Honore", czyli "Wiernością i Honorem".
 
 ## Pies na Herbie
-Pies oznacza wierność i ochronę w Marynskiej Republice. Pies jest tam, ponieważ w **1310** roku **Dobromir Psinski** zauważył psa i postanowił, że uwieczni to na herbie.
+Pies oznacza wierność i ochronę w Królestwie Marynskim. Pies jest tam, ponieważ w **1310** roku **Dobromir Psinski** zauważył psa i postanowił, że uwieczni to na herbie.
 
 ## Stolica
-Stolicą Marynskiej Republiki jest **Psinkogród** od założyciela Dobromira Psinskiego. Jest ona w stylu średniowiecznym. Znajduję się w stolicy wielki rynek - "Psinkowski Rynek". Pałac Psińskich został przerobrażony na siedzibę Prezydenta.
+Stolicą Królestwa Marynskiego jest **Psinkogród** od założyciela Dobromira Psinskiego. Jest ona w stylu średniowiecznym. Znajduję się w stolicy wielki rynek - "Psinkowski Rynek". Pałac Psińskich został przerobrażony na siedzibę Prezydenta.
 
-## Historia Marynskiej Republiki
+## Historia Królestwa Marynskiego
  - Na początku w roku **1310** żył **Dobromir** — władca plemienia Marynów. Miał wówczas 25 lat i zamieszkiwał tereny dzisiejszego Podlasia. W dniu 8 września zauważył psa, który od razu zaczął się łasić do Dobromira. Dobromir postanowił, że ze swego plemienia zrobi państwo o nazwie Królestwo Marynskie. Na herb dał właśnie tego psa, liście dębu, bo przy drzewie dębowym zauważył psa i włócznię, bo tym posługiwali się wtedy jego wojownicy. Stolicę zrobił w swym grodzie Psinkogrodzie od jego nazwiska Psinski. W **1311** mianował siebie Królem. I tak rozpoczęła się Dynastia Psinskich.
  - W roku **1315** kiedy **Dobromir** miał 30 lat przyjął **chrzest** dla Królestwa Marynskiego przez co umocniła się ona na arenie międzynarodowej.
  - W roku **1316** **Dobromir** w wieku 31 lat żeni się z 29-letnią **Mirosławą** przez co w roku **1317** rodzi się jej syn **Kazimier**.
@@ -34,3 +34,4 @@ Stolicą Marynskiej Republiki jest **Psinkogród** od założyciela Dobromira Ps
  - W roku **1357** **Bronisława** przywozi z podróży wiele ksiąg i pism, dzięki czemu zwiększa się kultura państwa.
  - W roku **1360** **Kazimier** tworzy "Święto Narodu", które odbywa się co roku 8 września w dzień założenia Królestwa Marynskiego.
  - W roku **1362** **Kazimier** dofinansowuje "Bazylikę Jezusa Chrystusa" przez co **Kazimier** ogłasza oficjalnie, że Jezus jest królem Królestwa Marynskiego.
+ - W roku **1367** **Kazimier** tworzy **Order Złotego Psa** za wierność i zasługi dla Królestwa Marynskiego.
