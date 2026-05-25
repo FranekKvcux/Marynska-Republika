@@ -1,4 +1,4 @@
-# Lore Marynskiej Republiki
+# Lore Królestwa Marynskiego
 
 ## Waluta
 Walutą Królestwa Marynskiego jest "Korona Marynska".
@@ -10,7 +10,11 @@ Walutą Królestwa Marynskiego jest "Korona Marynska".
 Pies oznacza wierność i ochronę w Królestwie Marynskim. Pies jest tam, ponieważ w **1310** roku **Dobromir Psinski** zauważył psa i postanowił, że uwieczni to na herbie.
 
 ## Stolica
-Stolicą Królestwa Marynskiego jest **Psinkogród** od założyciela Dobromira Psinskiego. Jest ona w stylu średniowiecznym. Znajduję się w stolicy wielki rynek - "Psinkowski Rynek". Pałac Psińskich został przerobrażony na siedzibę Prezydenta.
+Stolicą Królestwa Marynskiego jest **Psinkogród** od założyciela Dobromira Psinskiego. Jest ona w stylu średniowiecznym. Znajduję się w stolicy wielki rynek - "Psinkowski Rynek".
+
+## Ordery
+ 1. **Order Złotego Psa** - Za wierność i wielkie zasługi dla państwa. Jest on najwyższym orderem.
+ 2. **Order Walecznego Psa** - Za wielkie zasługi w wojnach.
 
 ## Historia Królestwa Marynskiego
  - Na początku w roku **1310** żył **Dobromir** — władca plemienia Marynów. Miał wówczas 25 lat i zamieszkiwał tereny dzisiejszego Podlasia. W dniu 8 września zauważył psa, który od razu zaczął się łasić do Dobromira. Dobromir postanowił, że ze swego plemienia zrobi państwo o nazwie Królestwo Marynskie. Na herb dał właśnie tego psa, liście dębu, bo przy drzewie dębowym zauważył psa i włócznię, bo tym posługiwali się wtedy jego wojownicy. Stolicę zrobił w swym grodzie Psinkogrodzie od jego nazwiska Psinski. W **1311** mianował siebie Królem. I tak rozpoczęła się Dynastia Psinskich.
@@ -35,3 +39,10 @@ Stolicą Królestwa Marynskiego jest **Psinkogród** od założyciela Dobromira 
  - W roku **1360** **Kazimier** tworzy "Święto Narodu", które odbywa się co roku 8 września w dzień założenia Królestwa Marynskiego.
  - W roku **1362** **Kazimier** dofinansowuje "Bazylikę Jezusa Chrystusa" przez co **Kazimier** ogłasza oficjalnie, że Jezus jest królem Królestwa Marynskiego.
  - W roku **1367** **Kazimier** tworzy **Order Złotego Psa** za wierność i zasługi dla Królestwa Marynskiego.
+ - W roku **1368** **Kazimier** umiera w wieku 51 lat, a mieszkańcy dają jemu przydomek **Waleczny** i jego następcą staje się jego syn **Bogusław** w wieku 23 lat.
+ - W roku **1369** **Bogusław** tworzy **Order Walecznego Psa** za wielkie zasługi  w wojnach.
+ - W roku **1373** **Bogusław** rozwija handel morski dzięki dofinansowaniu budowy statków handlowych.
+ - W roku **1378** **Bogusław** żeni się z **Dobrawą**.
+ - W roku **1381** **Bogusław** poprawia relację z Królestwem Polskim i z Wielkim Księstwem Litewskim dzięki zawarciu umowy o wolnym handlu.
+ - W roku **1384** **Bogusław** buduje pierwszy statek Floty Złotego Psa o nazwie **Dobromir**.
+ - W roku **1385** **Dobrawa** rodzi syna **Sławomira**.
