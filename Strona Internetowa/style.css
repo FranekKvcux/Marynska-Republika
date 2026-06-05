@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+.motto_ {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header_ {
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+}
+
+.logo_ img {
+    width: 80px;
+    height: 80px;
+}
+
+a {
+    color: violet;
+}

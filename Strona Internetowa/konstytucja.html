@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Królestwo Marynskie</title>
+    <link rel="icon" type="image/x-icon" href="assets/herb_królestwa_marynskiego.ico">
+    <link rel="stylesheet" href="style.css"> 
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+
+<body>
+    <div class="header_">
+        <a class="logo_" href="index.html"><img src="assets/herb_królestwa_marynskiego.png"></a>
+        <h1><b>Królestwo Marynskie</b></h1>
+        <a href="index.html">Strona Główna</a>
+        <a href="wielka_karta.html">Wielka Karta</a>
+    </div>
+    <div class="motto_">
+        "Fide et Honore"
+    </div>
+
+    <div id="content">
+        Ładowanie...
+    </div>
+
+    <script>
+        fetch("Wielka_Karta_Królestwa-Marynskiego.md")
+            .then(response => response.text())
+            .then(markdown => {
+            document.getElementById('content').innerHTML =
+                marked.parse(markdown);
+            });
+
+    </script>
+</body>
+</html>
