@@ -6,7 +6,7 @@
 
 ## Rozdział I - Ustrój państwa
 
- - **Art. 1** - Królestwo Marynskie jest panśtwem o ustroju monarchii konstytucyjnej.
+ - **Art. 1** - Królestwo Marynskie jest państwem o ustroju monarchii konstytucyjnej.
 
  - **Art. 2** - Królestwo Marynskie jest państwem jednolitym.
 
