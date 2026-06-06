@@ -35,4 +35,6 @@
     3. Godło i barwy Królestwa Marynskiego podlegają ochronie prawnej.
     4. Mottem Królestwa Marynskiego jest "Fide et Honore" co oznacza "Z wiarą i Honorem".
 
- - **Art. 10** - Językiem urzędowym jest Polski.
+ - **Art. 10** - Językiem urzędowym Królestwa Marynskiego jest Polski.
+ 
+ - **Art. 11** - Walutą Królestwa Marynskiego jest Korona Marynska.
