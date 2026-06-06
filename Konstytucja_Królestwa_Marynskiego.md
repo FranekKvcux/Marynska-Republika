@@ -1,10 +1,10 @@
 # Konstytucja Królestwa Marynskiego
 
 ## Spis treści:
- - Rozdział I - Ustrój państwa.
+ - Rozdział I - Królestwo Marynskie
 
 
-## Rozdział I - Ustrój państwa
+## Rozdział I - Królestwo Marynskie
 
  - **Art. 1** - Królestwo Marynskie jest państwem o ustroju monarchii konstytucyjnej.
 
@@ -20,5 +20,18 @@
  - **Art. 5** - Królestwo Marynskie zapewnia wolności i prawa człowieka oraz obywatela, a także bezpieczeństwo obywatela.
 
  - **Art. 6**
+
     1. Król sprawuje władzę wykonawczą, ustawodawczą i sądowniczą.
     2. Król wykonuje swoje kompetencje zgodnie z Konstytucją.
+
+ - **Art. 7** - Królestwo Marynskie zapewnia wolność mediów.
+
+ - **Art. 8** - Stolicą Królestwa Marynskiego jest Marwa.
+
+ - **Art. 9**
+
+    1. Barwami Królestwa Marynskiego są biały i fioletowy.
+    2. Godłem Królestwa Marynskiego jest wizerunek psa umieszczonego na tle flagi Królestwa Marynskiego, przedstawionego z włócznią nad głową, otoczonego dwoma liśćmi dębu, z gwiazdą   umieszczoną w dolnej części godła.
+    3. Godło i barwy Królestwa Marynskiego podlegają ochronie prawnej.
+
+ - **Art. 10** - Językiem urzędowym jest Polski.
