@@ -33,5 +33,6 @@
     1. Barwami Królestwa Marynskiego są biały i fioletowy.
     2. Godłem Królestwa Marynskiego jest wizerunek psa umieszczonego na tle flagi Królestwa Marynskiego, przedstawionego z włócznią nad głową, otoczonego dwoma liśćmi dębu, z gwiazdą   umieszczoną w dolnej części godła.
     3. Godło i barwy Królestwa Marynskiego podlegają ochronie prawnej.
+    4. Mottem Królestwa Marynskiego jest "Fide et Honore" co oznacza "Z wiarą i Honorem".
 
  - **Art. 10** - Językiem urzędowym jest Polski.
